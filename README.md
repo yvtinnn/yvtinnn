@@ -1,8 +1,3 @@
-##Hi, I’m Yatin 👋  
-
-🧠Future Computer Science Student<br/>
-🧑‍💻I like data science and cybersecurity <br/>
-🗣️Connect with me: https://www.linkedin.com/in/yatin-vanjani-2366453a3/ <br/>
 
 
 # 💫 About Me:
