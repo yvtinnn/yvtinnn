@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-Hi, I’m Yatin 👋  <br>I’m a student developer who enjoys learning new technologies and building small projects.  <br>Currently focused on improving my web development and programming skills.<br><br>My Goals<br>- Become something in cybersecurity<br>- Build real-world projects<br>- Improve clean, readable code<br>- Learn new technologies consistently<br><br><br><br>
+Hi, I’m Yatin 👋  <br>I’m a student developer who enjoys learning new technologies and building small projects.  <br>Currently focused on improving my web development and programming skills.<br><br>My Goals<br>- Become something in technology<br>- Build real-world projects<br>- Improve clean, readable code<br>- Learn new technologies consistently<br><br><br><br>
 
 
 ## 🌐 Socials:
